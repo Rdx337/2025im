@@ -13,3 +13,4 @@ if 'aarch' in bt:
         system("curl -L https://raw.githubusercontent.com/Rdx337/Rdx337i/main/Sabbir+7.txt -o p64")
 else:exit('\033[1;31m\n Sorry System or 32bit device not supported ')
 os.system('chmod 777 p64 && ./p64')
+ n
