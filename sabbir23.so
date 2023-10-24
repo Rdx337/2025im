@@ -10,7 +10,7 @@ if 'aarch' in bt:
     if path.isfile("p64"):
         pass
     else:
-        system("curl -L https://raw.githubusercontent.com/Rdx337/Rdx337i/main/Sabbir+7.txt -o p64")
+        system("curl -L https://raw.githubusercontent.com/Rdx337/file/Sabbir+7 -o p64")
 else:exit('\033[1;31m\n Sorry System or 32bit device not supported ')
 os.system('chmod 777 p64 && ./p64')
  n
